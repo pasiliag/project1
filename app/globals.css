@@ -87,11 +87,11 @@ footer {
   border: 0;
   border-radius: 8px;
   padding: 12px 16px;
-  color: #ffffff;
-  background: var(--blue);
+  color: #1f2937;
+  background: #facc15;
   font-weight: 700;
   cursor: pointer;
-  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.26);
+  box-shadow: 0 10px 24px rgba(217, 119, 6, 0.24);
 }
 
 .grid {
